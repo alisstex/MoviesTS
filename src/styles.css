@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.square {
+  border-radius: 25px;
+  border: 2px solid #ad4d21;
+  padding: 20px;
+  margin: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+.movietitle {
+  padding-bottom: 20px;
+}
+.moviedesc {
+  font-size: small;
+  align-content: bottom;
+  height: 100%;
+}
+.moviesgrid {
+  display: flex;
+}
